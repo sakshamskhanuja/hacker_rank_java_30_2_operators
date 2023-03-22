@@ -6,7 +6,9 @@ In this challenge, you will work with arithmetic operators.
 
 ### Task
 
-Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.
+Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax
+percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round
+the result to the nearest integer.
 
 ### Example
 
@@ -26,13 +28,13 @@ Function <b>solve</b> has the following parameters:
 <li>int tax_percent: the tax percentage</li>
 </ul>
 
-Returns The function returns nothing. Print the calculated value, rounded to the nearest integer. 
+Returns The function returns nothing. Print the calculated value, rounded to the nearest integer.
 
 <b>Note:</b> Be sure to use precise values for your calculations, or you may end up with an incorrectly rounded result.
 
 ### Input Format
 
-There are 3 lines of numeric input: 
+There are 3 lines of numeric input:
 
 1. The first line has a ```double``` <i>mealCost</i>, (the cost of the meal before tax and tip).
 2. The second line has an integer, <i>tipPercent</i> (the percentage <i>mealCost</i> of being added as tip).
